@@ -1,0 +1,9 @@
+
+    .btn-grad-blue {
+        background-image: linear-gradient(310deg, #2152ff 0%, #21d4fd 100%);
+        color: white;
+    }
+    .btn-grad-blue:hover {
+        color: white;
+        box-shadow: 0 4px 10px rgba(33, 212, 253, 0.4);
+    }
